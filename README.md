@@ -64,13 +64,13 @@
 
 ### 💻 Profile Stats
 
-<img alt="Akiva's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=akivakn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<img alt="Akiva's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akivakn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Akiva's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akivakn&theme=react" height="192px"/>
+<img alt="Akiva's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akivakn&theme=react" height="192px"/>
 
 ### 🔥 Streak Stats
 
-![Akiva's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=akivakn&theme=tokyonight)
+![Akiva's GitHub stats](https://streak-stats.demolab.com/?user=akivakn&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
-<img alt="Akiva's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=akivakn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Akiva's Contribution Chart" src="https://ghchart.rshah.org/F85D7F/akivakn" />
